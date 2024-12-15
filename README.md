@@ -1,4 +1,12 @@
 # Fitting Poisson  distribution
+Ex.No : 2
+
+Date : 
+
+Name : Niralya.J
+
+Register Number : 24003623
+
 # Aim : 
 
 To fit poisson distribution for the arrival of objects per minute from the feeder
@@ -29,10 +37,23 @@ The Poisson distribution is the discrete probability distribution of the number 
 ![image](https://user-images.githubusercontent.com/103921593/230282876-f4a5afbf-cac1-4648-a1b0-c78840638a8e.png)
 
 # Program :
+Developed by : Niralya.J
+
+Register number : 24003623
+
+
+
+![image](https://github.com/user-attachments/assets/85e39b71-9d3d-4aeb-a3fa-128a147651d5)
+
+
+
 
  
 
 # Output : 
+![image](https://github.com/user-attachments/assets/839c9121-97f8-430e-b048-ca4bb9494bff)
+
+
 
 
 
